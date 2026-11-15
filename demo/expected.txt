@@ -1,0 +1,19 @@
+error: inspection rejected
+error: duplicate id: H-1
+error: score must be between 1 and 10
+B-1 City
+D-1 Hub
+E-1 Volt
+H-1 Pro
+S-1 ModelX
+S-1 ModelX
+E-1 Volt
+14.0
+5
+S-1 ModelX
+H-1 Pro
+S-1 ModelX
+expired
+S-1 ModelX
+H-1 Giro
+S-1 ModelX
